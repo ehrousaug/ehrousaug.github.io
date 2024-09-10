@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ehrousaug.github.io/sitemap.html.gz
+Sitemap: https://ehrousaug.github.io/app/sitemap.html.gz
+Sitemap: https://ehrousaug.github.io/assets/sitemap.html.gz
+Sitemap: https://ehrousaug.github.io/css/sitemap.html.gz
+Sitemap: https://ehrousaug.github.io/includes/sitemap.html.gz
+Sitemap: https://ehrousaug.github.io/item/sitemap.html.gz
+Sitemap: https://ehrousaug.github.io/src/sitemap.html.gz
